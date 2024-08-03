@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE.?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonliwhisperske?label=Followers&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE.?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhisperske?label=Followers&style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GABRIEL-THE-GREATE?&style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social"></a>
 <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GABRIEL-THE-GREATE?label=Watching&style=social"></a>
