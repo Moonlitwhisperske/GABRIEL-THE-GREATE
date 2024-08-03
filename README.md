@@ -5,29 +5,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT">
+  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE">
     <img title="Author" src="https://img.shields.io/badge/GABRIEL%20KORIR-blue?style=for-the-badge&logo=github">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Moonlitwhisperske?tab=followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/Moonlitwhisperske?label=Followers&style=social">
+  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE?tab=followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/GABRIEL-THE-GREATE?label=Followers&style=social">
   </a>
-  <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GC-MD-BOT?style=social">
+  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE/stargazers/">
+    <img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social">
   </a>
-  <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/network/members">
-    <img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GC-MD-BOT?style=social">
+  <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/network/members">
+    <img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social">
   </a>
-  <a href="https://github.com/Moonlitwhisperske/GC-MD-BOT/watchers">
-    <img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GC-MD-BOT?label=Watching&style=social">
+  <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/watchers">
+    <img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GABRIEL-THE-GREATE?label=Watching&style=social">
   </a>
 </p>
 
 <h1 align="center">💦 GABRIEL KORIR 💦</h1>
 
-#### 💦💦To change the owner number, click here: [CHANGE OWNER](https://github.com/Moonlitwhisperske/GC-MD-BOT/blob/main/plugins/main-creator.js#L7)💦💦
+#### 💦💦To change the owner number, click here: [CHANGE OWNER](https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/blob/main/plugins/main-creator.js#L7)💦💦
 
 ### SESSION PAIR CODE
 <p align="left">
@@ -58,7 +58,7 @@
 
 #### 2. Deploy Now
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Moonlitwhisperske/GC-MD-BOT">
+  <a href="https://heroku.com/deploy?template=https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE">
     <img src="https://img.shields.io/badge/Heroku%20Deploy-black?style=for-the-badge&logo=heroku" width="200" height="30.45"/>
   </a>
 </p>
@@ -76,7 +76,7 @@
 2. Deploy Now
     <br>
 <p align="left">
-  <a href="https://repl.it/github/Moonlitwhisperske/GC-MD-BOT">
+  <a href="https://repl.it/github/Moonlitwhisperske/GABRIEL-THE-GREATE">
     <img src="https://img.shields.io/badge/Replit%20Deploy-black?style=for-the-badge&logo=replit" width="200" height="30.45"/>
   </a>
 </p>
@@ -94,7 +94,7 @@
 #### 2. Deploy Now
    <br>
    <p align="left">
-     <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FMoonlitwhisperske%2FGC-MD-BOT&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false">
+     <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FMoonlitwhisperske%2GABRIEL-TH&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false">
        <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/>
      </a>
    </p>
