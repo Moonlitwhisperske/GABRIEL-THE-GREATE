@@ -5,24 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE">
+  <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE.?tab=followers">
     <img title="Author" src="https://img.shields.io/badge/GABRIEL%20KORIR-blue?style=for-the-badge&logo=github">
   </a>
 </p>
 
 <p align="center">
-  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE?tab=followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/GABRIEL-THE-GREATE?label=Followers&style=social">
-  </a>
-  <a href="git@github.com:Moonlitwhisperske/GABRIEL-THE-GREATE/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social">
-  </a>
-  <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/network/members">
-    <img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social">
-  </a>
-  <a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/watchers">
-    <img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GABRIEL-THE-GREATE?label=Watching&style=social">
-  </a>
+<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE.?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Moonliwhisperske?label=Followers&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Moonlitwhisperske/GABRIEL-THE-GREATE?&style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Moonlitwhisperske/GABRIEL-THE-GREATE?style=social"></a>
+<a href="https://github.com/Moonlitwhisperske/GABRIEL-THE-GREATE/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Moonlitwhisperske/GABRIEL-THE-GREATE?label=Watching&style=social"></a>
 </p>
 
 <h1 align="center">💦 GABRIEL KORIR 💦</h1>
