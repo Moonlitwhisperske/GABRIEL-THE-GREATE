@@ -92,12 +92,8 @@
    </p>
 
 #### 2. Deploy Now
-   <br>
-   <p align="left">
-     <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FMoonlitwhisperske%2GABRIEL-TH&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false">
-       <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/>
-     </a>
-   </p>
+      <br>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FMoonlitwhisperske%2FGABRIEL-THE-GREATE&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
 
 ### SUPPORT GROUP LINK
 
